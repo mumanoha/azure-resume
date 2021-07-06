@@ -1,11 +1,8 @@
-# azure-resume
+# Resume Website on Azure
 My own resume website built using Azure services
 
-# Architecture
-
-```image
-
-```
+## Architecture
+![alt text](https://github.com/mumanoha/azure-resume/blob/main/architecture.png?raw=true)
 
 ## First steps
 
