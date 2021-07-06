@@ -1,6 +1,12 @@
 # azure-resume
 My own resume website built using Azure services
 
+# Architecture
+
+```image
+
+```
+
 ## First steps
 
 - Fronteend folder contains the website.
